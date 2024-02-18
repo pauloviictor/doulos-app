@@ -1,0 +1,28 @@
+.card{
+    width: 22rem;
+    height: 18rem;
+    /* background-color: #F2A057; */
+}
+
+/* .card-member{
+    background: rgb(242,160,87);
+    background: linear-gradient(180deg, rgba(242,160,87,1) 50%, rgba(242,198,160,1) 100%);
+} */
+
+.home{
+    background-color: #C5D1D9;
+}
+
+.header-home{
+    font-size: 4rem !important;
+}
+
+.footer{
+    position: fixed;
+    background-color: #0F6CA6;
+    text-align: center;
+    color: white;
+    height: 2.5rem;
+    bottom: 0;
+    width: 100%;
+}
